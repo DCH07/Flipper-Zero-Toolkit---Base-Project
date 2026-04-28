@@ -1,7 +1,5 @@
 # Flipper-Zero-Toolkit---Base-Project
 
-# Flipper Zero Toolkit (Python)
-
 Toolkit en Python para crear, gestionar y automatizar payloads para Flipper Zero de forma rápida y sencilla.
 
 ## Características
